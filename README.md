@@ -11,5 +11,5 @@ Honors CS  @ University of Minnesota – Twin Cities
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-sitorus-20b8a62b8/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)]([mailto:jonathansitorus983@gmail.com(https://mail.google.com/mail/u/5/#inbox))
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jonathansitorus983@gmail.com)
 
