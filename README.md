@@ -1,7 +1,7 @@
 ## 
 
 Hi 👋, I'm Jonathan Sitorus  
-Honors Economics  @ University of Minnesota – Twin Cities  
+Honors Economics and Management Information Systems  @ University of Minnesota – Twin Cities  
 
 ⭐ I’m currently working on data analytics and visualization projects using Python, SQL, and Power BI  
 
